@@ -58,8 +58,14 @@ Frontend: Access the application by navigating to http://localhost:3000 (or your
 Backend: The API will be available at http://localhost:5000 (or your configured port).
 
 #Results
+
+
 ![WhatsApp Image 2024-08-05 at 18 52 29_468bc9ea](https://github.com/user-attachments/assets/a018592e-284a-42ee-805e-4e2c3f5bc56a)
 ![WhatsApp Image 2024-08-05 at 18 52 29_b7ab7dd1](https://github.com/user-attachments/assets/6f175571-e332-4362-9fcb-876942d32083)
+![WhatsApp Image 2024-08-05 at 18 52 30_efb3d7c4](https://github.com/user-attachments/assets/4aad95c7-cc5b-4e8c-95be-9062a69ba5ad)
+![WhatsApp Image 2024-08-05 at 18 52 28_377fd08c](https://github.com/user-attachments/assets/0ccf9d9f-c7c5-43f5-8cc9-11b7ccf5d778)
+
+
 
 Contributing
 Fork the repository.
