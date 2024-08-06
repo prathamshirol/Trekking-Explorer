@@ -57,6 +57,10 @@ PORT=your_preferred_port
 Frontend: Access the application by navigating to http://localhost:3000 (or your configured port) in your web browser.
 Backend: The API will be available at http://localhost:5000 (or your configured port).
 
+#Results
+![WhatsApp Image 2024-08-05 at 18 52 29_468bc9ea](https://github.com/user-attachments/assets/a018592e-284a-42ee-805e-4e2c3f5bc56a)
+![WhatsApp Image 2024-08-05 at 18 52 29_b7ab7dd1](https://github.com/user-attachments/assets/6f175571-e332-4362-9fcb-876942d32083)
+
 Contributing
 Fork the repository.
 
